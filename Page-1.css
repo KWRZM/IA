@@ -1,0 +1,312 @@
+ .u-section-1 {
+  background-image: url("images/85a7bf9d04_131526_ia-mit-pixels-mots.jpg");
+  background-position: 50% 50%;
+  min-height: 784px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 775px;
+  height: 775px;
+  background-image: url("images/tumblr_7c2ca5f9a8a0cf317b8b4811b21a8fc7_433c22b7_540.png?rand=8365");
+  background-position: 50% 50%;
+  margin: 1px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 790px;
+  margin-top: -776px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  width: 618px;
+  margin: -514px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: -287px auto 60px;
+  padding: 147px 180px 148px 179px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 646px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -8px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -767px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -529px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 440px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 720px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -712px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -547px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 260px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -532px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -617px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 60px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 319px;
+    height: 319px;
+    margin-top: 78px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -396px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -626px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+} .u-section-2 {
+  background-image: url("images/7217F53A-CEDA-4A6C-8C101A96170D0F06_source.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1679px;
+}
+
+.u-section-2 .u-shape-1 {
+  height: 1584px;
+  margin-top: 95px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -1584px 0 0;
+}
+
+.u-section-2 .u-slider-1 {
+  width: 793px;
+  min-height: 452px;
+  margin: -856px auto 60px;
+}
+
+.u-section-2 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/IA-.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/intel-deep-learning-ia-intelligence-artificielle.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: url("images/30212411048_2a1d7200e2_z.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-carousel-control-1 {
+  width: 38px;
+  height: 38px;
+  background-image: none;
+  left: 0;
+  position: absolute;
+  right: auto;
+}
+
+.u-section-2 .u-carousel-control-2 {
+  width: 38px;
+  height: 38px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2239px;
+  }
+
+  .u-section-2 .u-slider-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2240px;
+  }
+
+  .u-section-2 .u-slider-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-slider-1 {
+    margin-top: -989px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2295px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    height: 2201px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -2334px;
+  }
+
+  .u-section-2 .u-slider-1 {
+    margin-top: -1345px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-3 {
+  background-image: url("images/ia-intelligence-artificielle.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1536px;
+}
+
+.u-section-3 .u-shape-1 {
+  height: 1431px;
+  margin-top: 0;
+  margin-bottom: 60px;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1267px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 970px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 728px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1490px;
+  }
+}
