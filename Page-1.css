@@ -1,0 +1,349 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/85a7bf9d04_131526_ia-mit-pixels-mots.jpg");
+  background-position: 50% 50%;
+  min-height: 885px;
+}
+
+.u-section-1 .u-shape-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-image-1 {
+  width: 775px;
+  height: 775px;
+  animation-duration: 1750ms;
+  background-image: url("images/tumblr_7c2ca5f9a8a0cf317b8b4811b21a8fc7_433c22b7_540.png?rand=8365");
+  background-position: 50% 50%;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: 45px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  width: 618px;
+  animation-duration: 1500ms;
+  margin: -514px auto 0;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 250px;
+  height: 219px;
+  animation-duration: 4500ms;
+  margin: -228px auto 0 calc(((100% - 1140px) / 2) + -67px);
+}
+
+.u-section-1 .u-shape-3 {
+  width: 701px;
+  height: 701px;
+  margin: -450px auto 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 926px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 940px) / 2) + 200px);
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: -452px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 783px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -459px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 720px) / 2) + 200px);
+    margin-top: -231px;
+    margin-left: calc(((100% - 720px) / 2) + -67px);
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: -450px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 607px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+    margin-top: 23px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+    margin-top: -368px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 540px) / 2) + 150px);
+    margin-top: -230px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-shape-3 {
+    width: 540px;
+    height: 540px;
+    margin-top: -379px;
+    margin-bottom: 23px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: -229px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 340px) / 2) + 88px);
+    height: 115px;
+    margin-top: -116px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    width: 293px;
+    height: 293px;
+    margin-top: -204px;
+    margin-bottom: 60px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/85a7bf9d04_131526_ia-mit-pixels-mots.jpg");
+  background-position: 50% 50%;
+  min-height: 1050px;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 1050px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 974px;
+  height: 896px;
+  margin: 118px auto 0 94px;
+}
+
+.u-section-2 .u-group-2 {
+  min-height: 486px;
+  width: 607px;
+  margin: -677px auto 0 296px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 31px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  letter-spacing: normal;
+  font-style: normal;
+  font-family: Roboto, sans-serif;
+  text-transform: none;
+  margin: 17px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.25rem;
+  font-style: italic;
+  line-height: 32px;
+  margin: 38px 0 0 38px;
+}
+
+.u-section-2 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 85px auto 0 162px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 1026px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 880px;
+    margin-top: 65px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 739px;
+    margin-top: -748px;
+    margin-right: 95px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 27px;
+    margin-right: 186px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 36px;
+    margin-right: 210px;
+    margin-left: 80px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 80px;
+    margin-left: 231px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 1001px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-group-2 {
+    min-height: 471px;
+    width: 540px;
+    margin-top: -745px;
+    margin-right: 86px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 136px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 151px;
+    margin-left: 38px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 162px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 961px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 540px;
+    height: 739px;
+    margin-top: 88px;
+  }
+
+  .u-section-2 .u-group-2 {
+    min-height: 470px;
+    width: 440px;
+    margin-top: -616px;
+    margin-right: 74px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 36px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 35px;
+    margin-right: 94px;
+    margin-left: 36px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 50px;
+    margin-left: 110px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 817px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 399px;
+    height: 594px;
+    margin-right: 14px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 281px;
+    margin-top: -561px;
+    margin-right: 52px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 32px;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 63px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 63px;
+    margin-left: 10px;
+  }
+}
