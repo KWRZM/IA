@@ -115,12 +115,13 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 430px;
+    min-height: 758px;
   }
 
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 340px;
+    margin-top: 170px;
   }
 
   .u-section-1 .u-text-1 {
@@ -320,12 +321,13 @@
   .u-section-2 .u-shape-1 {
     width: 399px;
     height: 594px;
-    margin-right: 14px;
+    margin-top: 91px;
+    margin-left: -22px;
   }
 
   .u-section-2 .u-group-2 {
     width: 281px;
-    margin-top: -561px;
+    margin-top: -564px;
     margin-right: 52px;
   }
 
@@ -344,6 +346,6 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: 63px;
-    margin-left: 10px;
+    margin-left: 52px;
   }
 }
